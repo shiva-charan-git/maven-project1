@@ -40,7 +40,8 @@ height:400px;
 <h2>Contact us:-</h2>
 
 <h2>Vangala Vanugopal,Vangala Shivacharan</h2>
-<h2>8074491636,8099758700</h2>
+<h2>8074491636,</h2>
+<h1>8099758700</h2>
 
 
 </div>
