@@ -1,0 +1,32 @@
+jenkins server
+==============
+install: jenkins , java, maven and git
+
+
+jenkins : create a slave and give label name
+ give java and maven env variables correctly
+
+ configuration:
+==============
+1 enable restrict where this project  can be run
+   give the label name as you created
+2 give the git repo link
+
+3 Build Triggers for every min ( * * * * *)
+4 Build  give maven golas 
+5 post build action
+  give target/*.war in WAR/EAR files
+  give container as tomcat 9
+  give tomcat credential and URL
+
+6 save and apply then click on biuld job. 
+
+
+slave server
+=============
+install : java ,maven,git
+
+and  clone repo 
+
+create a pom.xml file by give mvn archetype:generate
+ 
