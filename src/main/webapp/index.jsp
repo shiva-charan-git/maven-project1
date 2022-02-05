@@ -34,12 +34,15 @@ height:400px;
 <img src="https://transit.avivaromm.com/wp-content/uploads/2017/10/coursesbackground-1-1480x586.png" width="1300" height="550">
 <div class="container">
 <h1>Hi This is my first project</h1>
+<h1>venu gold works<h1>
 
 <br>
 <h2>Contact us:-</h2>
 
 <h2>Vangala Vanugopal</h2>
 <h2>8074491636</h2>
+<h2>Vangala shivacharan</h2>
+<h2>8099758700/<h2>
 
 </div>
 </div>
