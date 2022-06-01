@@ -1,51 +1,32 @@
-<!DOCTYPE html>
 <html>
 <head>
-<title>Page Title</title>
-</head>
 <style>
-.container {
-  
-  width: 400px;
-  height:550px;
-  margin-left: 75px;
-margin-top:10px;
-}
-
-h1{
-font-size:35px;
-color: blue;
-    margin-top: -501px;
-    
-    width: 600px;
-}
-
-
-h2{
-color:red;
-}
-image{
-width:1000px;
-height:400px;
+div {
+  background-color:rgb(229, 183, 151);
+  width: 300px;
+  border: 15px solid rgba(204, 218, 230, 0.938);
+  padding: 50px;
+  margin: 25px;
 }
 </style>
+</head>
 <body>
-<div class="imgcontainer ">
-<img src="https://transit.avivaromm.com/wp-content/uploads/2017/10/coursesbackground-1-1480x586.png" width="1300" height="550">
-<div class="container">
+  <hr>
+  <a href="Home.html">Home</a>&nbsp &nbsp
+  <a href="Product.html">Products</a>&nbsp &nbsp
+  <a href="Login.html">Login</a>&nbsp &nbsp
+  <a href="Register.html">Register</a>&nbsp &nbsp
+  <a href="Contact.html">Contact</a>&nbsp &nbsp
+  <hr>
 
-<h1>Venu Gold Works</h1>
-
-<br>
-<h2>Contact us:-</h2>
-
-<h2>Vangala Vanugopal,Vangala Shivacharan</h2>
-<h2>8074491636,</h2>
-<h1>8099758700</h2>
+<h2>Customar Help Line Number :</h2>
 
 
-</div>
-</div>
+
+<div><p style="font-size:30px;">Cantact us:</p><br.<br>
+  <p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp   +9236585744</p>
+  <p>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp   +9185236478</p>
+<p>Email ID:abcdef23@gmail.com </p></div>
+
 </body>
 </html>
-
